@@ -20,6 +20,7 @@ import { mkdir, readFile, writeFile } from 'node:fs/promises'
 import { dirname, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { renderAsync } from '@resvg/resvg-js'
+import sharp from 'sharp'
 import consola from 'consola'
 import { createContentLoader } from 'vitepress'
 import { satoriVue } from 'x-satori/vue'
@@ -103,11 +104,12 @@ async function generateImage({
   // consola.info(url, title, description)
   const options: SatoriOptions = {
     width: 1200,
-    height: 628,
+    height: 630,
     fonts,
     props: {
       title,
-      description
+      description,
+      image: 'https://i.fmhy.net/og-base.jpg'
     }
   }
 
@@ -115,12 +117,16 @@ async function generateImage({
 
   const render = await renderAsync(svg)
 
+  const compressed = await sharp(render.asPng())
+    .webp({ quality: 75 })
+    .toBuffer()
+
   const outputFolder = resolve(outDir, url.slice(1), '__og_image__')
-  const outputFile = resolve(outputFolder, 'og.png')
+  const outputFile = resolve(outputFolder, 'og.webp')
 
   await mkdir(outputFolder, { recursive: true })
 
-  await writeFile(outputFile, render.asPng())
+  await writeFile(outputFile, compressed)
 }
 
 function getPage(page: string) {
