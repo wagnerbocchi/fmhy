@@ -63,23 +63,24 @@
 ## ▷ File Converters
 
 * ⭐ **[File Converter](https://file-converter.io/)** - Offline / Convert & Compress Files / Windows / [GitHub](https://github.com/Tichau/FileConverter)
-* ⭐ **[VERT](https://vert.sh/)** - Online for Videos / Offline for Other Formats / [Discord](https://discord.gg/8XXZ7TFFrK) / [GitHub](https://github.com/VERT-sh/VERT)
-* ⭐ **[Convert to it!](https://p2r3.github.io/convert/)** - Offline / File Converter / [GitHub](https://github.com/p2r3/convert)
-* ⭐ **[Aconvert](https://www.aconvert.com/)** - Online / Various Converters / 40MB
+* ⭐ **[VERT](https://vert.sh/)** - Online for Videos / Offline for Other Formats / Web / [Discord](https://discord.gg/8XXZ7TFFrK) / [GitHub](https://github.com/VERT-sh/VERT)
+* ⭐ **[Convert to it!](https://p2r3.github.io/convert/)** - Offline / File Converter / Web / [GitHub](https://github.com/p2r3/convert)
+* ⭐ **[Aconvert](https://www.aconvert.com/)** - Online / Various Converters / 40MB / Web
 * [⁠Docling](https://docling-project.github.io/docling/) / [GitHub](https://github.com/docling-project/docling) or [Pandoc](https://pandoc.org/) - Document / PDF File Converters
-* [ConvertCSV](https://www.convertcsv.com/) - Online CSV Data Conversion
-* [Encoding Converter](https://encoding-converter.netlify.app/) - Online File Encoding Converter
+* [ConvertCSV](https://www.convertcsv.com/) - Online CSV Data Conversion / Web
+* [Encoding Converter](https://encoding-converter.netlify.app/) - Online File Encoding Converter / Web
 * [Deark](https://entropymine.com/deark/) - Decode and Convert Files / Windows, Mac, Linux / [GitHub](https://github.com/jsummers/deark)
-* [text2img](https://master.ayra.ch/text2img/) - Online NFO Files to Image Converter
+* [text2img](https://master.ayra.ch/text2img/) - Local NFO Files to Image Converter / Web / [GitHub](https://github.com/AyrA/text2img)
 * [Shutter Encoder](https://www.shutterencoder.com/) - File Converter / Windows, Mac, Linux / [GitHub](https://github.com/paulpacifico/shutter-encoder)
-* [videoutils](https://www.videoutils.com/) - Online / File Converter / 500MB
-* [⁠OfflineConvert](https://www.offlineconvert.com/) - Offline / File Converter
-* [Xconvert](https://www.xconvert.com) - Online / File Converter / 400MB
-* [FreeConvert](https://www.freeconvert.com/) - Online / Unlimited / Clear Cookies
-* [ConvertFiles](https://www.convertfiles.com/) - Online / File Converter / 250MB
-* [Convertio](https://convertio.co/) - Online / File Converter / 100MB
-* [AnyConvert](https://anyconv.com/) - Online / File Converter / 100MB
-* [MiConv](https://miconv.com/) - Online / File Converter / 75MB
+* [videoutils](https://www.videoutils.com/) - Online / File Converter / 500MB / Web
+* [⁠OfflineConvert](https://www.offlineconvert.com/) - Offline / File Converter / Web
+* [Xconvert](https://www.xconvert.com) - Online / File Converter / 400MB / Web
+* [FreeConvert](https://www.freeconvert.com/) - Online / Unlimited / Clear Cookies / Web
+* [ConvertFiles](https://www.convertfiles.com/) - Online / File Converter / 250MB / Web
+* [Convertio](https://convertio.co/) - Online / File Converter / 100MB / Web
+* [AnyConvert](https://anyconv.com/) - Online / File Converter / 100MB / Web
+* [MiConv](https://miconv.com/) - Online / File Converter / 75MB / Web
+* [⁠Docpose](https://docpose.cloud/convert) - Online / File Converter / 25MB / Web
 * [⁠ConvertX](https://github.com/C4illin/ConvertX) - Self-Hosted Online File Converter
 
 ***
@@ -320,17 +321,19 @@
 * ⭐ **[VikingFile](https://vikingfile.com/)** - Unlimited / 15 Days After Last Download / Use Adblocker / [Discord](https://discord.gg/EPEFC6KkpF)
 * ⭐ **[⁠Rootz](https://rootz.so/)** - 25GB / 15 Days After Last Download / Unlimited for Backstage Users / [Discord](https://discord.com/invite/rtz)
 * ⭐ **[⁠ZeroFS](https://zerofs.link/)** - Unlimited / 30 Days After Last Download / [CLI](https://github.com/kirmola/zerofs-cli) / [Discord](https://discord.gg/PJWsgUt7XM)
-* ⭐ **[Buzzheavier](https://buzzheavier.com/)**, [2](https://fuckingfast.net/), [3](https://bzzhr.co/) - Unlimited / 15 Days After Last Download / [File Expiry](https://buzzheavier.com/help) / [Discord](https://discord.gg/ttQjgC28WP) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md) 
+* ⭐ **[Buzzheavier](https://buzzheavier.com/)**, [2](https://fuckingfast.net/), [3](https://bzzhr.co/) - Unlimited / 7 Day Expiry / +1 Hour Per DDL / [File Expiry](https://buzzheavier.com/help) / [Discord](https://discord.gg/ttQjgC28WP) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md) 
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / [Proxy](https://fatbox.moe/)
 * ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
 * [FileQ](https://fileq.net/) - 50GB / 20GB / 3 Days After Last Download / Has Unlimited Plans / [Discord](https://discord.gg/zc2r9pZzF)
 * [FileMirage](https://filemirage.com/) - 50GB / 30 Days After Last View
 * [Send.now](https://send.now/) - 100GB / 15 Days After Last Download
 * [⁠UC.Files](https://files.union-crax.xyz/) - 15GB / Forever
+* [⁠storage.to](https://storage.to/) - 25GB / 7 Days
 * [Litterbox](https://litterbox.catbox.moe/) - 1GB / 3 Days
 * [Transfer.it](https://transfer.it/) - Unlimited / 90 Days / Owned by MEGA.nz
+* [⁠Filester](https://filester.me/) - 10GB / 45 Days After Last Download 
 * [DesiUpload](https://desiupload.co/) - 15 Days (2GB per file / 30 Days w/ Account)
-* [hostb](https://hostb.org/) - Unlimited / 30 Days After Last Download / [Source](https://r-w-x.org/r/hostb.git)
+* [hostb](https://hostb.org/) - Unlimited / 30 Days After Last Download / [Source Code](https://r-w-x.org/r/hostb.git)
 * [udrop](https://www.udrop.com/) - 5GB / 50GB on Signup / Forever
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Requires Sign-Up
 * [Ranoz](https://ranoz.gg/) - 20GB / 30 Days After Last Download
@@ -343,6 +346,7 @@
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days
 * [DropMeFiles](https://dropmefiles.com/) - 50GB / 14 Days
 * [⁠MixLoads](https://mixloads.to/) - 25.6GB / 2TB / 60 Days After Last Download / Requires Sign-Up
+* [⁠CryptFiles](https://cryptfiles.cloud/) - 10GB / Unlimited / 1 Year
 * [GigaFile](https://gigafile.nu/) - 300GB / 100 Days
 * [UploadNow](https://uploadnow.io/) - 100GB / 7 Days After Last Download
 * [eDisk](https://www.edisk.cz/) - 20GB / 30 Days
@@ -410,6 +414,7 @@
 * [FEB](https://www.febbox.com/) - 10GB Free / 1 Month / ~$4 for 2TB
 * [Keybase](https://keybase.io/) - 250GB / Forever / [GitHub](https://github.com/keybase/client)
 * [Proton Drive](https://proton.me/drive) - 5GB Free / 1 Year / ~$10 for 1TB / [Discord](https://discord.com/invite/proton) / [Note](https://proton.me/support/more-free-storage-existing-users)
+* [⁠InfiniCLOUD](https://infini-cloud.net/en/) - 20GB Free / 1 Year / ~$14 for 3TB
 * [JumpShare](https://jumpshare.com/) - 2GB Free / 1 Year / $8.25 for 1TB
 * [FileLu](https://filelu.com/) - 10GB / Forever / **[Expiry Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filelu-warning.md)**
 * [CyberFile](https://cyberfile.me/) - 10GB Free
@@ -425,8 +430,7 @@
 
 ## ▷ Cloud Managers
 
-* ⭐ **[Rclone](https://rclone.org/)** - Cloud Storage Manager
-* ⭐ **Rclone Tools** - [Guide](https://rentry.co/simple-rclone-usage) / [GUI](https://github.com/liriliri/rem) / [Colab](https://colab.research.google.com/github/szyha/RcloneLabArchive/blob/master/RcloneLab.ipynb) / [Transfer Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) / [Telegram](https://t.me/rclonexbot)
+* ⭐ **[Rclone](https://rclone.org/)** - Cloud Storage Manager / [Guide](https://rentry.co/simple-rclone-usage) / [GUI](https://github.com/liriliri/rem) / [Colab](https://colab.research.google.com/github/szyha/RcloneLabArchive/blob/master/RcloneLab.ipynb) / [Transfer Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) / [Telegram](https://t.me/rclonexbot)
 * ⭐ **[gclone](https://github.com/dogbutcat/gclone)** - Cloud Storage Manager
 * ⭐ **[Air Explorer](https://airexplorer.net/en/)** - Cloud Storage Manager
 * ⭐ **[RaiDrive](https://www.raidrive.com/)** - Cloud Storage Manager

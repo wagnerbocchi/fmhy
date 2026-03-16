@@ -402,7 +402,7 @@
 ## ▷ Streaming / Nanonood
 
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / Anime / Some NSFW / Sub / Dub / 1080p
-* [Pinoy Movies Hub](https://pinoymovieshub.tv/) - Movies / TV / Anime / NSFW / Sub / Dub / 720p
+* [Pinoy Movies Hub](https://pinoymovieshub.cv/) - Movies / TV / Anime / NSFW / Sub / Dub / 720p
 * [cinema](https://cinema.com.ph) - Movies / TV / Anime
 * [Pinoymoviepedia](https://pinoymoviepedia.ru/) - Movies / TV / NSFW / Sub / Dub / 720p
 * [Pinoy Albums](https://pinoyalbums.com/) - Music
@@ -744,9 +744,9 @@
 * ⭐ **[Cineby](https://www.cineby.gd/)** - Hindi-Dub Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
 * ⭐ **[HydraHD](https://hydrahd.com/)** - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/)
 * ⭐ **[RgShows](https://www.rgshows.ru/)** - Movies / TV / Anime / 4K / [Guide](https://www.rgshows.ru/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
+* ⭐ **[PirateXPlay](http://piratexplay.cc/)** - Cartoons / Anime / [Mirrors](https://piratexplay.com/)
 * ⭐ **[⁠Animelok](https://animelok.site/)** - Anime / Cartoons / 1080p / Auto-Next / [Mirrors](https://animelok.to/) / [Telegram](https://t.me/animerulz_xyz) / [Discord](https://discord.gg/32taxtj5BC)
 * ⭐ **[ToonStream](https://toonstream.one/)** - Cartoons / Anime / 1080p / [Telegram](https://telegram.me/toonstream)
-* ⭐ **[PirateXPlay](http://piratexplay.cc/)** - Cartoons / Anime
 * ⭐ **[Anime World India](https://watchanimeworld.in/)**, [2](https://animesalt.top/),  - Anime
 * ⭐ **[MultiMovies](https://multimovies.guru)** - Movies / TV / .guru Always Redirects to Main / [Telegram](https://telegram.me/+8Is7Ezz56fNkZDZl)
 * [TamilMV](https://www.1tamilmv.farm/) - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Indian Languages
@@ -1277,6 +1277,8 @@
 
 # ► Romanian / Limba Română
 
+* [arhivabac](https://www.arhivabac.com/) or [pro-matematica](https://www.pro-matematica.ro/ ) - Romanian Exam Prep
+
 ## ▷ Downloading
 
 * [xCinema.ro](https://www.xcinema.ro/) - Movies / TV / Sub / 720p
@@ -1608,7 +1610,6 @@
 * [Streamtpmedia](https://streamtpmedia.com/) - Live Sports
 * [angulismotv](https://angulismotv-dnh.pages.dev/) - Live Sports
 * [librefutboltv](https://librefutboltv.su/) - Live Football
-* [AceStream Links](https://rentry.co/FMHYB64#acestream) - Live Sports Acestream IDs
 * [Listas-IPTV](https://rentry.co/fmhyb64#iptv-playlists) - Spanish IPTV Resources
 * [Cinecalidad](https://www.cinecalidad.ec/) - Movies / TV / Animation / Latino
 * [detodopeliculas](https://detodopeliculas.nu/) - Movies / TV
@@ -1657,7 +1658,7 @@
 ## ▷ Reading / Leer
 
 * ⭐ **[EpubLibre](https://www.epublibre.org/)** - Books / Torrents / May Require VPN
-* ⭐ **[Spanish Reading CSE](https://cse.google.com/cse?cx=85e4a562f2abf40f6)** / [SMAGX](https://smagx.com/) - Multi-Site Book Search
+* ⭐ **[Spanish Reading CSE](https://cse.google.com/cse?cx=85e4a562f2abf40f6)** - Multi-Site Book Search
 * [eBiblioteca](https://ebiblioteca.org/) - Books
 * [ePub Gratis](https://www.epubgratis.info/) - Books
 * [LectuEpub](https://lectuepub4.com/) - Books
@@ -1721,7 +1722,6 @@
 
 # ► Turkish / Türkçe
 
-* ⭐ **[Universal Blocklist](https://github.com/berkaygediz/universal-blocklist)** - Get rid of low-quality Turkish results
 * [Doğruluk Payı](https://www.dogrulukpayi.com/) - News Verification
 * [Market Fiyatı](https://marketfiyati.org.tr/) - Market Prices
 
